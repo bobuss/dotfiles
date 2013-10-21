@@ -1,4 +1,5 @@
 My dotfiles
 ===========
 
-- gitconfig
+- .gitconfig
+- .git_branch
